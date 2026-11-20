@@ -218,5 +218,4 @@ chunking. No running server required.
 
 ## Authors
 
-Vansh Badjate and Vaishnavi Nikumbh — Sanjivani University.
-Copyright registration SW-2026022947.
+Vaishnavi Nikumbh — Sanjivani University.
